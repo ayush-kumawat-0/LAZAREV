@@ -390,10 +390,29 @@ nav button svg{
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    border: 2px solid red;
+    // border: 2px solid red;
     position: absolute;
 }
 
+#page4 .textContainer h1{
+    text-align: center;
+    text-transform: capitalize;
+    font-size: 3.7rem;
+    padding: 1rem;
+}
+
+#page4 .textContainer .endText{
+    padding: 10vh 0;
+}
+
+#page4 .textContainer .btn{
+    background-color: white;
+    padding: 2vh 2vw;
+    border-radius: 10vw;
+    color: #111;
+    font-size: small;
+    font-weight: 640;
+}
 
 #page5{
     width: 100%;
